@@ -1,0 +1,1 @@
+{"title":"pl","description":"Descri","image":{"instanceID":714},"health":2,"speed":2,"mana":2}
